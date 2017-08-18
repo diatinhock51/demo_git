@@ -13,7 +13,7 @@ int main()
 	int i, j;
 	do
 	{
-		LietKe();		
+		LietKe();		//Ham chua khoi tao
 		i = k;
 		while (i > 0 && C[i] == n - k + i)	i--;
 		if (i > 0) 
